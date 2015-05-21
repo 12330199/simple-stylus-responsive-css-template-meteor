@@ -1,0 +1,29 @@
+{
+  "name": "stylus",
+  "version": "1.0.0",
+  "description": "A simple to use and understand Stylus template for use with a Meteor app",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-newer": "^1.1.0",
+    "grunt-contrib-stylus": "^0.21.0",
+    "grunt": "^0.4.5",
+    "stylus": "^0.51.1",
+    "jeet": "^6.1.2",
+    "grunt-stylus-map": "^0.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apptain/simple-stylus-responsive-css-template-meteor.git"
+  },
+  "author": "apptain",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/apptain/simple-stylus-responsive-css-template-meteor/issues"
+  },
+  "homepage": "https://github.com/apptain/simple-stylus-responsive-css-template-meteor#readme"
+}

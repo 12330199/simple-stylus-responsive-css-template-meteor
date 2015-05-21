@@ -1,0 +1,8 @@
+{
+  "name": "my-project-name",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-stylus-map": "~0.4.0"
+  }
+}
+
